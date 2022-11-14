@@ -71,7 +71,7 @@ function Header() {
     </StyleHeader>
   );
 }
-
+//miguel elias
 function Timeline({searchValue, ...propiedades}) {
   const playlistsNames = Object.keys(propiedades.playlists);
   //Satement mesma coisa de for o react nao aceita
